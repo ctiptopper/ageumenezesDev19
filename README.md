@@ -15,11 +15,9 @@
 
 #
 
-
 <div style="text-align: center;">
-    <a href="http://https://github.com/ageumenezesDev19"></a>
-    <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green">
-    <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px">
+    <img height="251em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px">
 </div>
 
 #
