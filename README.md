@@ -16,7 +16,7 @@
 #
 
 <div>
-    <img src="/gif/akudama-drive-anime.gif" alt="akudama-drive-anime">
+    <img src="" alt="akudama-drive-anime">
 </div>
 
 <div style="text-align: center;">
