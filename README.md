@@ -49,5 +49,5 @@
     <a href="https://www.linkedin.com/in/ageu-menezes-costa-307852197/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-image"></a>
      
      ![Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg)
-     
+
 </div>
