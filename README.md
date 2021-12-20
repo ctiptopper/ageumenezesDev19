@@ -41,3 +41,10 @@
 
 #
 
+<div>
+    <a href="https://api.whatsapp.com/message/BGWPXAI6HMLUC1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp-image"></a>
+    <a href="https://t.me/ageu_menezes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-image"></a>
+    <a href="mailto:ageumenezes23@gmail.com?subject=subject text" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-image"></a>
+        <!--Fonte:https://pt.wikihow.com/Criar-um-Link-de-Email-em-HTML-->
+    <a href="https://www.linkedin.com/in/ageu-menezes-costa-307852197/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-image"></a>
+</div>
