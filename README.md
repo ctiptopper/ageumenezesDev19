@@ -15,6 +15,10 @@
 
 #
 
+<div>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime-2.gif" alt="akudama-drive-anime"></a>
+</div>
+
 <div style="text-align: center;">
     <a href="http://github.com/ageumenezesDev19"></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
