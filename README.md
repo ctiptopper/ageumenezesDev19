@@ -47,4 +47,7 @@
     <a href="mailto:ageumenezes23@gmail.com?subject=subject text" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-image"></a>
         <!--Fonte:https://pt.wikihow.com/Criar-um-Link-de-Email-em-HTML-->
     <a href="https://www.linkedin.com/in/ageu-menezes-costa-307852197/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-image"></a>
+
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
