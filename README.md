@@ -16,7 +16,7 @@
 #
 
 <div>
-    <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime_3.0.mp4" alt="akudama-drive-anime"></a>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime_3_0_AdobeCreativeCloudExpress.gif" alt="akudama-drive-anime"></a>
 </div>
 
 <div style="text-align: center;">
