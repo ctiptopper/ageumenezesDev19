@@ -51,3 +51,5 @@
   <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
+
+<!-- Fonte de inspiração: https://youtu.be/TsaLQAetPLU (Rafaella Ballerini) -->
