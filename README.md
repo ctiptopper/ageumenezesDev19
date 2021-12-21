@@ -47,9 +47,10 @@
     <a href="mailto:ageumenezes23@gmail.com?subject=subject text" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-image"></a>
         <!--Fonte:https://pt.wikihow.com/Criar-um-Link-de-Email-em-HTML-->
     <a href="https://www.linkedin.com/in/ageu-menezes-costa-307852197/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-image"></a>
-     
-  <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
-
+    <a href="https://ageumenezesdev19.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="linkedin-image" height="28em"></a>
 </div>
 
+<div>
+   <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
+</div>
 <!-- Fonte de inspiração: https://youtu.be/TsaLQAetPLU (Rafaella Ballerini) -->
