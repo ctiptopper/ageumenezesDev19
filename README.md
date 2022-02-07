@@ -30,13 +30,15 @@
 <div style="text-align: center;">
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px"/></a>
+    <a href="http://github.com/ageumenezesDev19"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin-right: 1%;"/></a>
+    <a href="http://github.com/ageumenezesDev19"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40px"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40px"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px"/></a>
-     <a href="http://github.com/ageumenezesDev19"><img aling="center" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40px"/></a>
+    <a href="http://github.com/ageumenezesDev19"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/></a>
 </div>
 
 
