@@ -1,11 +1,11 @@
 # 👋 Hi, I’m ageumenezesDev19, a Technology Enthusiast
 - 📗 I am currently studying at Trybe;
 - 👀 I’m interested in Web Development, Design, Motion Design and Soft Skills;
-- 🌱 I’m currently learning Git, GitHub, Html, CSS, JavaScript, Programming logic,
+- 🌱 I’m currently learning CSS, JavaScript, Jest, DOM, Programming logic,
      soft skills such as emotional intelligence and communication;
      
        Also I’m learning Adobe Illustrator, Premiere Pro, Photoshop and After Affects too,
-       but not as intense as the first ones, 
+       but not as intense as the first ones,
      
        because my biggest focus
        is on programming now.
