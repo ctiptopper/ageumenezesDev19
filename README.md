@@ -36,6 +36,7 @@
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40px"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/></a>
     <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px"/></a>
+     <a href="http://github.com/ageumenezesDev19"><img aling="center" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40px"/></a>
 </div>
 
 
