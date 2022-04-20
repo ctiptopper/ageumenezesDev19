@@ -10,23 +10,27 @@
 
 #
 
-<div>
+<div id="gitHub-gif">
     <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime"></a>
 </div>
 
-<div style="text-align: center;">
-    <a href="http://github.com/ageumenezesDev19"></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
+<div id="gitHub-data" style="text-align: center;">
+    <div id="gitHub-stats">
+        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
+    </div>
+    <div id="gitHub-most-used-languages">
+        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
+    </div>
 </div>
 
 #
 
-<div style="text-align: center;">
+<div id="my-hard-skills" style="text-align: center;">
     <a href="https://www.w3schools.com/js/js_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
     <a href="https://www.w3schools.com/html/"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px"/></a>
     <a href="https://git-scm.com"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="https://www.w3schools.com/css/css_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px"/></a>
+    <a href="https://pt-br.reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px"/></a>
     <a href="https://code.visualstudio.com"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin-right: 1%;"/></a>
     <a href="https://jestjs.io"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></a>
     <a href="https://www.adobe.com/br/products/premiere.html?sdid=KQPPT&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB:G:s&s_kwcid=AL!3085!3!473120544216!e!!g!!premiere%20pro!188196342!10039612422&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40px"/></a>
@@ -39,7 +43,7 @@
 
 #
 
-<div>
+<div id="contact-me">
     <a href="https://api.whatsapp.com/message/BGWPXAI6HMLUC1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp-image"></a>
     <a href="https://t.me/ageu_menezes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-image"></a>
     <a href="mailto:ageumenezes23@gmail.com?subject=subject text" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-image"></a>
