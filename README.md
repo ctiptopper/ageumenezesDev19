@@ -1,14 +1,9 @@
 # 👋 Hi, I’m ageumenezesDev19, a Technology Enthusiast
 - 📗 I am currently studying at Trybe;
 - 👀 I’m interested in Web Development, Design, Motion Design and Soft Skills;
-- 🌱 I’m currently learning Git, GitHub, Html, CSS, JavaScript, Programming logic,
-     soft skills such as emotional intelligence and communication;
-     
-       Also I’m learning Adobe Illustrator, Premiere Pro, Photoshop and After Affects too,
-       but not as intense as the first ones, 
-     
-       because my biggest focus
-       is on programming now.
+- 🌱 I’m currently improving my skills in CSS, JavaScript, Jest, DOM, Programming logic,
+     soft skills such as emotional intelligence and communication.
+     Also learning React!
 
 - 🎬 I really enjoy watching science fiction, animation and adventure movies;
 - 🎵 Furthermore, I love listening to international and electronic music.
@@ -28,14 +23,17 @@
 #
 
 <div style="text-align: center;">
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin-right: 1%;"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40px"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40px"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/></a>
-    <a href="http://github.com/ageumenezesDev19"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px"/></a>
+    <a href="https://www.w3schools.com/js/js_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
+    <a href="https://www.w3schools.com/html/"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px"/></a>
+    <a href="https://git-scm.com"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
+    <a href="https://www.w3schools.com/css/css_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px"/></a>
+    <a href="https://code.visualstudio.com"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin-right: 1%;"/></a>
+    <a href="https://jestjs.io"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></a>
+    <a href="https://www.adobe.com/br/products/premiere.html?sdid=KQPPT&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB:G:s&s_kwcid=AL!3085!3!473120544216!e!!g!!premiere%20pro!188196342!10039612422&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40px"/></a>
+    <a href="https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6mtPsv8V4fF8mQXnQqVd9W_kYDxwmLFatACyOLQavbsMfrNEysYzrcaAl0VEALw_wcB:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!after%20effects!188195862!10039608942&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6mtPsv8V4fF8mQXnQqVd9W_kYDxwmLFatACyOLQavbsMfrNEysYzrcaAl0VEALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40px"/></a>
+    <a href="https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6k3I4lWyouVjtzlsjk0-ffMUmtQ4kp5F7R66hnSf9nVyyIWPNvuEnwaAg5mEALw_wcB:G:s&s_kwcid=AL!3085!3!534509111641!e!!g!!adobe%20photoshop!188192502!10077842982&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6k3I4lWyouVjtzlsjk0-ffMUmtQ4kp5F7R66hnSf9nVyyIWPNvuEnwaAg5mEALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/></a>
+    <a href="https://www.adobe.com/br/products/illustrator/campaign/pricing.html?sdid=KQPNY&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6nqelFa01Iw_z1uzq9_QSua5QI5jA0I8kEFd52wO-nVbgvkkXLIyIoaAh76EALw_wcB:G:s&s_kwcid=AL!3085!3!473120541057!e!!g!!adobe%20illustrator!188190582!110348310163&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6nqelFa01Iw_z1uzq9_QSua5QI5jA0I8kEFd52wO-nVbgvkkXLIyIoaAh76EALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px"/></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/></a>
 </div>
 
 
@@ -47,7 +45,10 @@
     <a href="mailto:ageumenezes23@gmail.com?subject=subject text" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-image"></a>
         <!--Fonte:https://pt.wikihow.com/Criar-um-Link-de-Email-em-HTML-->
     <a href="https://www.linkedin.com/in/ageu-menezes-costa-307852197/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-image"></a>
-     
-  <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
-
+    <a href="https://ageumenezesdev19.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="linkedin-image" height="28em"></a>
 </div>
+
+<div>
+   <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
+</div>
+<!-- Fonte de inspiração: https://youtu.be/TsaLQAetPLU (Rafaella Ballerini) -->
