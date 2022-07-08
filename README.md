@@ -1,5 +1,5 @@
 # 👋 Hi, I’m ageumenezesDev19, a Dev and Technology Enthusiast
-- 📗 I am currently studying at Rocketseat and Udemy;
+- 📗 I am currently studying at Rocketseat, Cataline and Udemy;
 - 👀 I’m interested in Web Development, Design and Soft Skills;
 - 🌱 I’m currently improving my skills in CSS, JavaScript, Jest, DOM, Programming logic,
      soft skills such as emotional intelligence, communication and creativity.
