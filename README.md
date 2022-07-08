@@ -1,9 +1,9 @@
-# 👋 Hi, I’m ageumenezesDev19, a Technology Enthusiast
-- 📗 I am currently studying at Trybe;
-- 👀 I’m interested in Web Development, Design, Motion Design and Soft Skills;
+# 👋 Hi, I’m ageumenezesDev19, a Dev and Technology Enthusiast
+- 📗 I am currently studying at Rocketseat and Udemy;
+- 👀 I’m interested in Web Development, Design and Soft Skills;
 - 🌱 I’m currently improving my skills in CSS, JavaScript, Jest, DOM, Programming logic,
-     soft skills such as emotional intelligence and communication.
-     Also learning React!
+     soft skills such as emotional intelligence, communication and creativity.
+     Also learning React.js!
 
 - 🎬 I really enjoy watching science fiction, animation and adventure movies;
 - 🎵 Furthermore, I love listening to international and electronic music.
